@@ -3,6 +3,10 @@ WPHW
 
 WordPress the hard way
 
+###for WordPress
+- any messy/unsecure/veryslow code
+- any non WordPress-way code (like not using an API, e.g. Settings, Filesystem)
+
 ###for handmade websites
 
 - uncontrollable output to frontend

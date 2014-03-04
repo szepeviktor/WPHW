@@ -15,7 +15,7 @@ WordPress the hard way
 
 ###performance factors
 
-- unneccessary autoload options
+- unnecessary autoload options
 - many options instead one array
 - same db query in a loop
 - lack of caching/usage of transients of repeated stuff, see: http://profiles.wordpress.org/voceplatforms/

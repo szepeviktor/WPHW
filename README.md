@@ -24,4 +24,5 @@ WordPress the hard way
 
 ####TODO
 
+- crete a dummy theme (with no running code)
 - write a Debug Bar plugin: select * from wp_options where autoload='yes';

@@ -15,9 +15,13 @@ WordPress the hard way
 
 ###performance factors
 
-- unnecessary autoload options
+- unnecessary autoload=yes options
 - many options instead one array
 - same db query in a loop
 - lack of caching/usage of transients of repeated stuff, see: http://profiles.wordpress.org/voceplatforms/
 - unneccessary parsing (`require()`) and execution of admin code on the frontend
 - unneccessary code parsing (`require()`) and execution on every admin page
+
+####TODO
+
+- write a Debug Bar plugin: select * from wp_options where autoload='yes';

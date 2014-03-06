@@ -24,7 +24,7 @@ WordPress the hard way
 
 ###Code styling
 - encoding, indent, line ends
-- https://github.com/scribu/wp-phptidy
+- WordPress Coding Standards
 
 ####TODO
 

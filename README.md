@@ -16,10 +16,14 @@ WordPress the hard way
 ###performance factors
 
 - unnecessary autoload=yes options
-- many options instead one array
+- many options instead of one array
 - same db query in a loop
 - lack of caching/usage of transients of repeated stuff, see: http://profiles.wordpress.org/voceplatforms/
 - unneccessary parsing (`require()`) and execution of admin code on the frontend
+
+###admin performance factors
+
+- unneccessary cs or js inclusion on all admin pages
 - unneccessary code parsing (`require()`) and execution on every admin page
 
 ###Code styling

@@ -22,6 +22,10 @@ WordPress the hard way
 - unneccessary parsing (`require()`) and execution of admin code on the frontend
 - unneccessary code parsing (`require()`) and execution on every admin page
 
+###Code styling
+- encoding, indent, line ends
+- https://github.com/scribu/wp-phptidy
+
 ####TODO
 
 - crete a dummy theme (with no running code)

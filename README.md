@@ -23,6 +23,7 @@ WordPress the hard way
 
 ###admin performance factors
 
+- http://www.barrykooij.com/increase-wordpress-plugin-performance/
 - unneccessary cs or js inclusion on all admin pages
 - unneccessary code parsing (`require()`) and execution on every admin page
 

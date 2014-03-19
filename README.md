@@ -12,7 +12,6 @@ WordPress the hard way
 - uncontrollable output to frontend
 - no `define()` to disable css, js enqueuing
 
-
 ###performance factors
 
 - unnecessary autoload=yes options
@@ -20,6 +19,14 @@ WordPress the hard way
 - same db query in a loop
 - lack of caching/usage of transients of repeated stuff, see: http://profiles.wordpress.org/voceplatforms/
 - unneccessary parsing (`require()`) and execution of admin code on the frontend
+
+####execution/reqiure cases
+
+- on the dashboard for users with a certain capability (like accessing the plugins functions)
+- on the dashboard for users without a certain capability
+- on the frontend for users with a certain capability (e.g. required for admin bar)
+- on the frontend for users without a certain capability
+- on the public frontend (not logged in)
 
 ###admin performance factors
 

@@ -22,7 +22,7 @@ WordPress the hard way
 
 ####execution/reqiure cases
 
-- on the dashboard for users with a certain capability (like accessing the plugins functions)
+- on the dashboard for users with a certain capability (like accessing the plugin's functions)
 - on the dashboard for users without a certain capability
 - on the frontend for users with a certain capability (e.g. required for admin bar)
 - on the frontend for users without a certain capability

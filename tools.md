@@ -7,6 +7,7 @@
 - https://github.com/joehoyle/Time-Stack
 - https://github.com/joehoyle/Time-Stack-Plugin
 - https://github.com/johnbillion/query-monitor
+- https://gist.github.com/szepeviktor/9643547
 
 ##Debugging
 

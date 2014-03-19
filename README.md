@@ -27,7 +27,7 @@ WordPress the hard way
 - on the dashboard for users without the necessary capability
 - on the frontend for users with the necessary capability (e.g. required for admin bar)
 - on the frontend for users without the necessary capability
-- on the public frontend (not logged in) frontpage/page/single/archive/404 etc.
+- on the public frontend (not logged in) frontpage/home/page/single/archive/404 etc.
 
 ###admin performance factors
 

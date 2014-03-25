@@ -18,7 +18,6 @@ WordPress the hard way
 - many options instead of one array
 - same db query in a loop
 - lack of caching/usage of transients of repeated stuff, see: http://profiles.wordpress.org/voceplatforms/
-- unneccessary parsing (`require()`) and execution of admin code on the frontend
 
 ####execution/reqiure cases
 

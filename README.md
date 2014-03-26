@@ -9,7 +9,7 @@ WordPress the hard way
 
 ###for handmade websites
 
-- uncontrollable output to frontend
+- uncontrollable (there is nothing to prevent) output to frontend
 - no `define()` to disable css, js enqueuing
 
 ###performance factors
@@ -18,6 +18,8 @@ WordPress the hard way
 - many options instead of one array
 - same db query in a loop
 - lack of caching/usage of transients of repeated stuff, see: http://profiles.wordpress.org/voceplatforms/
+- PHP class autoload
+- conditional `add_action(); add_filter();` 
 
 ####execution/reqiure cases
 

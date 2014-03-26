@@ -11,6 +11,7 @@
 
 ##Debugging
 
+- https://github.com/johnbillion/query-monitor
 - https://github.com/bueltge/Debug-Objects
 - https://github.com/Automattic/developer
 - https://wordpress.org/plugins/debug-bar/

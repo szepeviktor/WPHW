@@ -44,4 +44,4 @@ WordPress the hard way
 ####TODO
 
 - crete a dummy theme (with no running code)
-
+- list a critera for different type of plugins (e.g. slider)

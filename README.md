@@ -24,7 +24,7 @@ WordPress the hard way
 ####execution/reqiure cases
 
 - on AJAX calls
-- on wp-cron runs
+- on wp-cron runs, on wp-cron from cron (shell)
 - on the dashboard for users with the necessary capability (like accessing the plugin's functions)
 - on the dashboard for users without the necessary capability
 - on the frontend for users with the necessary capability (e.g. required for admin bar)

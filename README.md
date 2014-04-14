@@ -30,6 +30,7 @@ WordPress the hard way
 - on the frontend for users with the necessary capability (e.g. required for admin bar)
 - on the frontend for users without the necessary capability
 - on the public frontend (not logged in) frontpage/home/page/single/archive/404 etc.
+- various wp-cli runs
 
 ###admin performance factors
 

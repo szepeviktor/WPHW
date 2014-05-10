@@ -46,3 +46,5 @@ WordPress the hard way
 
 - crete a dummy theme (with no running code)
 - list a critera for different type of plugins (e.g. slider)
+- http://wp-dreams.com/responsible-wordpress-plugin-development-more-compatibility-less-support-tickets/
+

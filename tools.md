@@ -18,5 +18,6 @@
 - https://wordpress.org/plugins/debug-bar-extender/ `dbgx_trace_var( $value, $var_name = false )`
 
 ###Code styling
+- https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards
 - https://github.com/scribu/wp-phptidy
 

@@ -10,12 +10,15 @@
 
 ### Frontend low priority
 
+1. wp-comments-post.php:16
+1. wp-trackback.php:12
+
+### Dashboard low priority
+
 1. wp-login.php:12
 1. wp-signup.php:4
 1. wp-activate.php:12
 1. wp-mail.php:11
-1. wp-comments-post.php:16
-1. wp-trackback.php:12
 
 ### Exclude from profiling
 

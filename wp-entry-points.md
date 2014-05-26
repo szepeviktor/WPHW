@@ -2,9 +2,9 @@
 
 1. frontend: wp-blog-header.php:12
 1. admin GET request: wp-admin/admin.php:30
-1. AJAX call: wp-admin/admin-ajax.php:20
 1. admin POST request: wp-admin/admin-post.php:15
 1. admin upload: wp-admin/async-upload.php:16
+1. AJAX call: wp-admin/admin-ajax.php:20
 1. WordPress cron webserver/CLI: wp-cron.php:26
 1. XML-RPC protocol: xmlrpc.php:29
 

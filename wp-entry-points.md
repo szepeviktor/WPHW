@@ -1,4 +1,4 @@
-## WordPress Entry Points (wp-load.php occurrences in 3.9.1)
+## WordPress Entry Points (wp-load.php occurrences)
 
 1. frontend: wp-blog-header.php:12
 1. admin GET request: wp-admin/admin.php:30

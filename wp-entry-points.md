@@ -22,11 +22,11 @@
 
 ### Exclude from profiling
 
-- wp-links-opml.php:15
-- wp-includes/ms-files.php:12
-- wp-includes/js/tinymce/wp-mce-help.php:9
-- wp-admin/install.php:36
-- wp-admin/install-helper.php:39
-- wp-admin/upgrade.php:18
-- wp-admin/maint/repair.php:10
-- wp-admin/moderation.php:10
+1. wp-links-opml.php:15
+1. wp-includes/ms-files.php:12
+1. wp-includes/js/tinymce/wp-mce-help.php:9
+1. wp-admin/install.php:36
+1. wp-admin/install-helper.php:39
+1. wp-admin/upgrade.php:18
+1. wp-admin/maint/repair.php:10
+1. wp-admin/moderation.php:10

@@ -30,3 +30,5 @@
 1. wp-admin/upgrade.php:18
 1. wp-admin/maint/repair.php:10
 1. wp-admin/moderation.php:10
+
+Total: **21 entry points** as of version 3.9.1

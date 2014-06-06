@@ -32,3 +32,5 @@
 1. wp-admin/moderation.php:10
 
 Total: **21 entry points** as of version 3.9.1
+
+See [WP trac #28364](https://core.trac.wordpress.org/ticket/28364)

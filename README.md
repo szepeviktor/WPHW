@@ -44,7 +44,9 @@ WordPress the hard way
 
 ####TODO
 
-- crete a dummy theme (with no running code)
+- crete theme boilerplate (with no running code)
+- crete plugin boilerplate (with no running code)
+- create [widget boilerplate](https://github.com/tommcfarlin/WordPress-Widget-Boilerplate)
 - list a critera for different type of plugins (e.g. slider)
 - http://wp-dreams.com/responsible-wordpress-plugin-development-more-compatibility-less-support-tickets/
 

@@ -17,6 +17,7 @@
 - https://wordpress.org/plugins/debug-bar/
 - https://wordpress.org/plugins/debug-bar-extender/ `dbgx_trace_var( $value, $var_name = false )`
 - https://wordpress.org/plugins/plugin-check/
+- https://github.com/jerodsanto/wordpress-console
 
 ### Code styling
 

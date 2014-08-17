@@ -17,18 +17,21 @@
 
 1. wp-login.php:12
 1. wp-signup.php:4
-1. wp-activate.php:12
 1. wp-mail.php:11
+
+### Only during core installation and upgrade
+
+1. wp-admin/install.php:36 `defined('WP_INSTALLING') && WP_INSTALLING`
+1. wp-admin/upgrade.php:18 `defined('WP_INSTALLING') && WP_INSTALLING`
+1. wp-activate.php:12 `defined('WP_INSTALLING') && WP_INSTALLING`
+1. wp-admin/maint/repair.php:10 `defined('WP_REPAIRING') && WP_REPAIRING`
 
 ### Exclude from profiling
 
 1. wp-links-opml.php:15
 1. wp-includes/ms-files.php:12
 1. wp-includes/js/tinymce/wp-mce-help.php:9
-1. wp-admin/install.php:36
 1. wp-admin/install-helper.php:39
-1. wp-admin/upgrade.php:18
-1. wp-admin/maint/repair.php:10
 1. wp-admin/moderation.php:10
 
 Total: **21 entry points** as of version 3.9.1

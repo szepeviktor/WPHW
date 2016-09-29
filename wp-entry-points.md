@@ -30,7 +30,7 @@
 
 1. wp-links-opml.php:15 ???
 1. wp-includes/ms-files.php:12 ???
-1. wp-includes/js/tinymce/wp-mce-help.php:9 ???
+1. wp-includes/js/tinymce/wp-tinymce.php
 1. wp-admin/install-helper.php:39 ???
 1. wp-admin/moderation.php:10 ???
 

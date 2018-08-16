@@ -1,4 +1,4 @@
-# WordPress file sin order of execution
+# WordPress files in order of execution
 
 ### Frontend
 

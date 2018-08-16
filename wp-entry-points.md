@@ -13,7 +13,7 @@
 1. wp-comments-post.php:16 `@$_SERVER['SCRIPT_FILENAME'] === ABSPATH . 'wp-comments-post.php'`
 1. wp-trackback.php:12 `is_trackback()`
 
-### Dashboard low priority
+### Admin low priority
 
 1. wp-login.php:12 ???
 1. wp-signup.php:4 ???
@@ -26,7 +26,7 @@
 1. wp-activate.php:12 `defined('WP_INSTALLING') && WP_INSTALLING`
 1. wp-admin/maint/repair.php:10 `defined('WP_REPAIRING') && WP_REPAIRING`
 
-### Exclude from profiling
+### Excluded from profiling
 
 1. wp-links-opml.php:15 ???
 1. wp-includes/ms-files.php:12 ???

@@ -10,6 +10,7 @@
 1. wp-includes/load.php
 1. wp-includes/default-constants.php
 1. wp-includes/version.php
+1. ...
 
 ### Backend
 
@@ -21,3 +22,4 @@
 1. wp-includes/load.php
 1. wp-includes/default-constants.php
 1. wp-includes/version.php
+1. ...

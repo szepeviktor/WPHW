@@ -2,6 +2,8 @@
 
 WordPress the hard way.
 
+⚠️ This was a very early stage of exploring WordPress. Please see e.g. https://github.com/szepeviktor/small-project
+
 ### For WordPress websites
 
 - for any messy/unsecure/veryslow code
